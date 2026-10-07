@@ -1,0 +1,11 @@
+name: green-lantern-hal
+version: 1.0.0
+description: "Hermes Agent styled after Green Lantern (Hal Jordan) from DC Universe: The Justice League"
+hermes_requires: ">=0.18.0"
+author: "JPeetz"
+license: "MIT"
+distribution_owned:
+  - SOUL.md
+  - config.yaml
+  - skins/
+  - distribution.yaml

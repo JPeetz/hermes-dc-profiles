@@ -1,0 +1,185 @@
+{
+  "franchise": "DC Universe",
+  "profiles": [
+    {
+      "slug": "batman",
+      "name": "Batman",
+      "series": "League"
+    },
+    {
+      "slug": "superman",
+      "name": "Superman",
+      "series": "League"
+    },
+    {
+      "slug": "wonder-woman",
+      "name": "Wonder Woman",
+      "series": "League"
+    },
+    {
+      "slug": "the-flash",
+      "name": "The Flash",
+      "series": "League"
+    },
+    {
+      "slug": "martian-manhunter",
+      "name": "Martian Manhunter",
+      "series": "League"
+    },
+    {
+      "slug": "green-lantern-hal",
+      "name": "Green Lantern (Hal Jordan)",
+      "series": "League"
+    },
+    {
+      "slug": "aquaman",
+      "name": "Aquaman",
+      "series": "League"
+    },
+    {
+      "slug": "cyborg",
+      "name": "Cyborg",
+      "series": "League"
+    },
+    {
+      "slug": "shazam",
+      "name": "Shazam",
+      "series": "League"
+    },
+    {
+      "slug": "supergirl",
+      "name": "Supergirl",
+      "series": "Metropolis"
+    },
+    {
+      "slug": "lois-lane",
+      "name": "Lois Lane",
+      "series": "Metropolis"
+    },
+    {
+      "slug": "steel-john-henry",
+      "name": "Steel (John Henry Irons)",
+      "series": "Metropolis"
+    },
+    {
+      "slug": "nightwing",
+      "name": "Nightwing",
+      "series": "BatFamily"
+    },
+    {
+      "slug": "robin-damian",
+      "name": "Robin (Damian Wayne)",
+      "series": "BatFamily"
+    },
+    {
+      "slug": "batgirl-oracle",
+      "name": "Batgirl / Oracle",
+      "series": "BatFamily"
+    },
+    {
+      "slug": "alfred",
+      "name": "Alfred Pennyworth",
+      "series": "BatFamily"
+    },
+    {
+      "slug": "red-hood-the-red-team",
+      "name": "Red Hood",
+      "series": "BatFamily"
+    },
+    {
+      "slug": "batwoman",
+      "name": "Batwoman",
+      "series": "BatFamily"
+    },
+    {
+      "slug": "catwoman",
+      "name": "Catwoman",
+      "series": "BatFamily"
+    },
+    {
+      "slug": "green-arrow",
+      "name": "Green Arrow",
+      "series": "Street"
+    },
+    {
+      "slug": "black-canary",
+      "name": "Black Canary",
+      "series": "Street"
+    },
+    {
+      "slug": "john-constantine",
+      "name": "John Constantine",
+      "series": "Street"
+    },
+    {
+      "slug": "zantanna",
+      "name": "Zantanna",
+      "series": "Street"
+    },
+    {
+      "slug": "the-question",
+      "name": "The Question",
+      "series": "Street"
+    },
+    {
+      "slug": "huntress",
+      "name": "Huntress",
+      "series": "Street"
+    },
+    {
+      "slug": "starfire",
+      "name": "Starfire",
+      "series": "Cosmic"
+    },
+    {
+      "slug": "raven",
+      "name": "Raven",
+      "series": "Cosmic"
+    },
+    {
+      "slug": "blue-beetle",
+      "name": "Blue Beetle (Jaime Reyes)",
+      "series": "Cosmic"
+    },
+    {
+      "slug": "joker-the-red-team",
+      "name": "The Joker",
+      "series": "Rogue"
+    },
+    {
+      "slug": "lex-luthor-the-red-team",
+      "name": "Lex Luthor",
+      "series": "Rogue"
+    },
+    {
+      "slug": "reverse-flash-the-red-team",
+      "name": "Reverse-Flash",
+      "series": "Rogue"
+    },
+    {
+      "slug": "brainiac-the-red-team",
+      "name": "Brainiac",
+      "series": "Rogue"
+    },
+    {
+      "slug": "ras-al-ghul-the-red-team",
+      "name": "Ra's al Ghul",
+      "series": "Rogue"
+    },
+    {
+      "slug": "scarecrow-the-red-team",
+      "name": "Scarecrow",
+      "series": "Rogue"
+    },
+    {
+      "slug": "two-face-the-red-team",
+      "name": "Two-Face",
+      "series": "Rogue"
+    },
+    {
+      "slug": "darkseid-the-red-team",
+      "name": "Darkseid",
+      "series": "Rogue"
+    }
+  ]
+}
