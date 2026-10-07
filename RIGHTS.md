@@ -1,47 +1,7 @@
-# Rights & Attribution
+Rights and attribution
 
-This repository is an **unofficial, non-commercial, fan-made behavioral
-collection** for Hermes Agent. It is not affiliated with, endorsed by, or
-connected to Warner Bros. Discovery or any rights holder of the DC Universe.
+This is an unofficial, non-commercial fan-made collection for Hermes Agent. DC, its series names, and its characters are trademarks or copyrighted properties of their respective rights holders. This repository is not affiliated with or endorsed by Warner Bros. Discovery or the DC rights holders.
 
-## What this repo contains
+The repository contains behavioral descriptions written in original language. It includes no franchise logos, promotional art, actor likenesses, scripts, comic or film passages, audio, video, or copied dialogue.
 
-- Original behavioral descriptions written for each persona (SOUL.md text).
-- Original terminal skin palettes.
-- Original documentation in this repository.
-
-## What this repo does NOT contain
-
-No franchise logos, promotional or film artwork, actor likenesses, scripts,
-film or comic passages, music, audio, video, or copied dialogue or
-catchphrases. We describe *behavior and operating temperament in our own
-words*; we do not reproduce the source material.
-
-DC, its characters, names, and setting are the property of Warner Bros.
-Discovery and its respective rights holders.
-
-## License
-
-- **Code** (build tools): MIT.
-- **Original persona prose and skins**: MIT.
-- **The underlying DC characters/setting**: NOT ours to license. They remain
-  the property of their rights holders.
-
-If you use or modify any profile here, keep this notice and the same
-non-commercial posture.
-
-## Hermes Agent
-
-These profiles target the open-source agent runtime **Hermes Agent** by
-Nous Research: https://hermes-agent.nousresearch.com — Hermes is MIT-licensed
-and unrelated to the DC Universe referenced here.
-
-## Reference & inspiror
-
-This collection follows the profile-distribution pattern popularized by
-**teknium1/hermes-star-trek-profiles** (https://github.com/teknium1/hermes-star-trek-profiles),
-an MIT-licensed illustration of building installable Hermes profile
-distributions from source personas. Our implementation is independent
-clean-room work: it shares the architecture (source-JSON → generated
-distribution) but no source text, character data, or prose from that
-reference repository.
+Code and original profile text are released under the MIT License, subject to all third-party rights in the underlying fictional characters and setting.
